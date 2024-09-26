@@ -35,5 +35,4 @@ For any questions or suggestions, feel free to contact:
 - **Name**: Mohammad Akram Rayeen
 - **Email**: akramrayeen1234.1@gmail.com
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
